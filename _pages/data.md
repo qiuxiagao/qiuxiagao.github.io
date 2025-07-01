@@ -1,10 +1,10 @@
 ---
-permalink: /markdown/
-title: "Research"
+permalink: /data/
+title: "Data"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /data.html
 ---
 
 ## Working Papers  
