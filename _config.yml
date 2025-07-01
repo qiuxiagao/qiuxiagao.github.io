@@ -9,27 +9,27 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Hanqi Zhang's Website"
+title                    : "Qiuxia Gao Homepage"
 title_separator          : "-"
-name                     : &name "Hanqi Zhang (Chris)"
+name                     : &name "Qiuxia Gao"
 description              : &description "personal description"
-url                      : https://ZhangHanqiChirs.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://qiuxiagao.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ZhangHanqiChirs/ZhangHanqiChirs.github.io"
+repository               : "qiuxiagao/qiuxiagao.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  name             : "<font size=5>Hanqi Zhang (Chris)</font>"
+  name             : "<font size=5>Qiuxia Gao</font>"
   avatar           : "profile2.png"
   pronouns         : # example: "she/her"  
   bio              : "<font size=3>Undergraduate student <br>(+86) 18145990908<br>(+852) 84903756</font>"
-  location         : "Kowloon, Hong Kong"
-  employer         : "The Hong Kong <br>Polytechnic University"
+  location         : "Singapore"
+  employer         : "National University of Singapore"
   uri              : #"https://www.polyu.edu.hk/"
-  email            : "chris_zhanghanqi@163.com"
+  email            : "e0610864@u.nus.edu"
 
   # Academic websites
   academia         : # URL
