@@ -7,8 +7,6 @@ redirect_from:
   - /markdown.html
 ---
 
-{% include toc %}
-
 ## Working Papers  
 1. Yi Fan, **Qiuxia Gao***, Yinghao Elliot Sitoh, and Wayne Xinwei Wan.  
 "[Post-Flood Selective Migration Interacts with Media Sentiment and Income Effects](https://www.nature.com/articles/s41558-025-02345-7)"  
@@ -20,7 +18,6 @@ redirect_from:
 
 3. **Qiuxia Gao**, Bingjing Li and Yu Qin.  
 "Spillover Effects of Waste Import Ban in China: Evidence from Asia."  
----
 
 ## Work-in-Progress Projects  
 1. "Walking Under Shelter: Impacts of the Sheltered Walkway on Travel Behaviors in Singapore",  
