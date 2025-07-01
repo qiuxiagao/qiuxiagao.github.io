@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "<font size=3>Ph.D. candidate</font>"
   location         : "Singapore"
-  employer         : "National University <br>of Singapore"
+  employer         : "National University <br>&emsp;of Singapore"
   uri              : "https://nus.edu.sg"
   email            : "e0610864@u.nus.edu"
 
