@@ -10,7 +10,8 @@ redirect_from:
 ## Working Papers  
 1. Yi Fan, **Qiuxia Gao***, Yinghao Elliot Sitoh, and Wayne Xinwei Wan.  
 "[Post-Flood Selective Migration Interacts with Media Sentiment and Income Effects](https://www.nature.com/articles/s41558-025-02345-7)"  
-*Nature Climate Change*, 2025, Vol 15: 619–626.  
+*Nature Climate Change*, 2025, Vol 15: 619–626.
+ - *Homer Hoyt Best Paper Award (Single Award) 2023*
 
 2. Yi Fan, **Qiuxia Gao**, and Cheng Keat Tang.  
 "[From Brown to Green? The Displacement Effect of Coal-Fired Power Plant Closure in China](https://www.abfer.org/media/abfer-events-2023/annual-conference/papers-realestate/AC23P6018-The-Unintended-Consequences-of-Coal-Fired-Power-Plant-Closures-Evidence-from-China.pdf)"  
