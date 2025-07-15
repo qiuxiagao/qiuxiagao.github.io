@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to my website! I’m Qiuxia, a Ph.D. candidate in the Department of Real Estate at the Business School, National University of Singapore. My research focuses on environmental economics, urban economics, and global trade policy—especially issues related to air pollution, climate change, and the environmental impacts of trade.  
+Hi, welcome to my website! I’m Qiuxia, a Ph.D. candidate in the Department of Real Estate at the Business School, National University of Singapore. My research focuses on environmental economics, urban economics, and sustainability—especially issues related to air pollution, urban infrastructure, and climate change.  
 
 I’ll be on the academic job market in 2025–2026. You can check out my [CV](../assets/QiuxiaGAO_CV.pdf) here.  
 
